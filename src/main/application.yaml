@@ -1,2 +1,1 @@
-spring-boot-starter-collecting-metrics:
-  metricName
+spring-boot-starter-collecting-metrics: metricName
